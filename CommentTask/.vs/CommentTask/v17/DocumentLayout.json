@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memme\\source\\repos\\CommentTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B6B7DB-2E54-4F62-9CB2-1BC04FB249C0}|CommentTask\\CommentTask.csproj|c:\\users\\memme\\source\\repos\\commenttask\\commenttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B6B7DB-2E54-4F62-9CB2-1BC04FB249C0}|CommentTask\\CommentTask.csproj|solutionrelative:commenttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C7EAF0-4D0C-4D98-86B3-24C503998CA9}|Core\\Core.csproj|c:\\users\\memme\\source\\repos\\commenttask\\core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C7EAF0-4D0C-4D98-86B3-24C503998CA9}|Core\\Core.csproj|solutionrelative:core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C7EAF0-4D0C-4D98-86B3-24C503998CA9}|Core\\Core.csproj|c:\\users\\memme\\source\\repos\\commenttask\\core\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C7EAF0-4D0C-4D98-86B3-24C503998CA9}|Core\\Core.csproj|solutionrelative:core\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C7EAF0-4D0C-4D98-86B3-24C503998CA9}|Core\\Core.csproj|c:\\users\\memme\\source\\repos\\commenttask\\core\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C7EAF0-4D0C-4D98-86B3-24C503998CA9}|Core\\Core.csproj|solutionrelative:core\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\CommentTask\\Core\\Helper.cs",
+              "RelativeDocumentMoniker": "Core\\Helper.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\CommentTask\\Core\\Helper.cs",
+              "RelativeToolTip": "Core\\Helper.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:06:49.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\CommentTask\\Core\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\CommentTask\\Core\\Models\\Blog.cs",
+              "RelativeToolTip": "Core\\Models\\Blog.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:06:35.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\CommentTask\\Core\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\CommentTask\\Core\\Models\\Comment.cs",
+              "RelativeToolTip": "Core\\Models\\Comment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:06:26.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\CommentTask\\CommentTask\\Program.cs",
+              "RelativeDocumentMoniker": "CommentTask\\Program.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\CommentTask\\CommentTask\\Program.cs",
+              "RelativeToolTip": "CommentTask\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwBoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:04:23.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
